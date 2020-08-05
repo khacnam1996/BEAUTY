@@ -3434,6 +3434,6 @@ background: #fff;
 .facebook{
   float: left;
 }
-.fb_iframe_widget span{
+.facebook .fb_iframe_widget span{
   height: 130px;
 }
