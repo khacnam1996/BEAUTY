@@ -3431,3 +3431,9 @@ background: #fff;
     padding: 0 5px;
     margin-bottom: 10px;
 }
+.facebook{
+  float: left;
+}
+.facebook .fb_iframe_widget span{
+  height: 130px;
+}
